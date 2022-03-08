@@ -1,0 +1,17 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "A simple to-do console app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Leonardo Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
